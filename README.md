@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on enhancing my skills.<br><br>🚀 I use daily: VSCode and Python.<br><br>🌱 I’m currently learning Machine Learning, Deep Learning.<br><br>💬 Ask me about Data Structures, Algorithms, Full Stack Web Development, Artificial Intelligence, Object Oriented Programming.<br><br>⚙️ Planning to explore Open Source, Cloud Computing.<br><br>📫 How to reach me nitinreddyk19@gmail.com</p>
+<p align="left">🔭 I’m currently working on enhancing my skills.<br><br>🚀 I use daily: VSCode and Python.<br><br>🌱 I’m currently learning Machine Learning, Deep Learning.<br><br>💬 Ask me about Data Structures, Algorithms, Full Stack Web Development, Artificial Intelligence, Object Oriented Programming.<br><br>⚙️ Planning to explore Open Source, Cloud Computing.<br><br>📫 How to reach me <a href="mailto:nitinreddyk19@gmail.com">nitinreddyk19@gmail.com<a></p>
 
 ###
 
